@@ -93,9 +93,9 @@ console.log("Tech Legacy");
 
 ### task list
 
--[x] finished1  
--[x] finished2  
--[] not finish
+- [x] finished1  
+- [x] finished2  
+- [] not finish
 
 ---
 
@@ -143,6 +143,6 @@ Markdown link syntax
 | Name         | Information  |
 | ------------ | ------------ |
 | Abdul Gaffar | Self-learner |
-||  
-|Lambo| Most liked| 
-||
+|              |
+| Lambo        | Most liked   |
+|              |
